@@ -8,7 +8,11 @@ name one of them "data.txt" and the other "scores.txt"
 These files will serve as your ledger
 
 Next, open the directory in the terminal, and enter these commands: (you must have a c++ compiler to run this)
+
+
 g++ *.cpp -o golf
+
+
 ./golf
 
 this will begin the process for your first entry in the ledger
